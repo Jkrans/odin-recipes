@@ -1,0 +1,10 @@
+div {
+    height: auto;
+    width: 40%;
+    margin: 0 auto;
+}
+
+h1, p ,ul, ol  {
+    font-family: "Verdana", Helvetica, Arial;
+}
+
