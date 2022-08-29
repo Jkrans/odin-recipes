@@ -1,10 +1,25 @@
+body {  
+    background-color: rgb(40, 40, 40);
+
+}
+
 div {
     height: auto;
     width: 40%;
     margin: 0 auto;
+    padding: 2em 0 20em 0;
 }
 
-h1, p ,ul, ol  {
+h1, h2, p ,ul, ol  {
     font-family: "Verdana", Helvetica, Arial;
+    color: rgb(213, 213, 213);
 }
 
+ol, ul {
+    height: auto;
+    width: 60%;
+}
+
+img {
+    border: 2px solid rgb(5, 61, 28);
+}
